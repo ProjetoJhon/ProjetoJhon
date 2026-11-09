@@ -1,49 +1,34 @@
+
+<!-- Dynamic typing header with animated text -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=808000&width=435&lines=Hello%2C+it's+Jonathas+Lima;Junior+Developer" alt="future full-stack developer"/>
+</a>
+
+<!-- GitHub contribution grid snake animation (adapts to light/dark mode) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=808000&width=435&lines=Hello%2C+it's+Jonathas+Lima;Junior+Developer" alt="future full-stack developer"/>
-</a>
-
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
-    <img src="./assets/about_Jhon.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
-
-
-
+<!-- Centered coding illustration GIF -->
 <p align="center">
   <img align="center" alt="Coding" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/images/coding.gif" width="400" />
 </p>
 
-
-
+<!-- Personal bio and current academic/career status -->
 I am a computer science student.
 
 - 🔭 Currently studying Java, machine learning, and various frameworks...
 - 🌱 Exploring advanced concepts in object-oriented programming...
 - ⚡ Fun fact: I’m always thinking of ways to improve my code.
-
-
 ---
 
+<!-- Custom repository banner GIF -->
 <p align="left">
   <img align="center" src="https://github.com/ProjetoJhon/ProjetoJhon/git-img.gif" alt="Imagem">
 </p>
+<!-- Portfolio projects section -->
 
 ## Portfolio:
 
@@ -74,7 +59,7 @@ I am a computer science student.
   </div>
 
 
-
+<!-- Social links and contact methods -->
 ### 📬 connect with me
 
 <p align="left">
@@ -84,5 +69,9 @@ I am a computer science student.
   <a href="mailto:trabalhojonatha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+<!-- GIF -->
+<p align="left">
+  <img src="https://github.com/ProjetoJhon/ProjetoJhon/blob/23be04c00c9ce9bc2cee14946e372ce07fd3fb87/git-img.gif" width="800" alt="Descrição do GIF">
 </p>
 
